@@ -74,18 +74,18 @@ a {
   color: #ffffff;
   cursor: pointer;
 }
-.button-section1:focus,
+.button-section-one:focus,
 .button-section-one:hover {
   background-color: #404bbf;
 }
-.Advantages .h3 {
+.advantages-title {
   font-weight: 500;
   font-size: 20;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.Advantages .p {
+.advantages-text {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
