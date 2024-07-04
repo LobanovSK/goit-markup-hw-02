@@ -56,24 +56,36 @@ a {
 .contacts-link:focus {
   color: #404bbf;
 }
-.--section1-- {
+.--section-one-- {
   background-color: #2e2f42;
 }
-.title1 {
+.title-one {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
   color: #ffffff;
 }
-.button-section1 {
+.button-section-one {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
+  background-color: #4D5AE5
   color: #ffffff;
   cursor: pointer;
 }
 .button-section1:hover,
 .button-section1:focus {
   background-color: #404bbf;
+}
+.title-two{
+  font-weight: 500;
+  font-size: 20;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color:#2e2f42;
+}
+.text-advantages{
+  line-height: 1.5;
+  letter-spacing: 0.02;
 }
