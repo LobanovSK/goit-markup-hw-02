@@ -56,3 +56,24 @@ a {
 .contacts-link:focus {
   color: #404bbf;
 }
+.--section1-- {
+  background-color: #2e2f42;
+}
+.title1 {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+.button-section1 {
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  cursor: pointer;
+}
+.button-section1:hover,
+.button-section1:focus {
+  background-color: #404bbf;
+}
